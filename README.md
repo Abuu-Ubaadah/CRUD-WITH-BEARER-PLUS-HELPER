@@ -59,3 +59,6 @@ composer dump-autoload
 ## **Kesimpulan**
 Dengan Menggunakan Helper `ResponseHelper`, Code Controller Jadi Lebih Bersih Dan Konsisten Dalam Format Response JSON. Sedang Middleware Bearer Token Memastikan Keamanan Endpoint API.
 
+```css
+Disusun oleh [Abuu Ubaadah a.k.a Muhammad Yaziid Ash-Shabriyy]
+```

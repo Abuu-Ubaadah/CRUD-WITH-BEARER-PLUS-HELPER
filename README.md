@@ -1,9 +1,9 @@
 
-# README: CRUD API Guna Prefix Juga Helper Di Laravel
+# README: CRUD API Guna Prefix Juga Helper Kat Laravel
 
-Dokumen Ini Menjelaskan Langkah-langkah Pembuatan Fitur CRUD Tuk Tabel Categories Di Laravel Dengan Penggunaan Bearer Token Juga Helper Untuk Response JSON
+Dokumen Ni Menerangkan Langkah-langkah Cam Mana Nak Buat Fitur CRUD Tuk Tabel Categories Kat Laravel Guna Bearer Token Juga Helper Tuk Response JSON Dia
 
-## **Struktur Folder Dan File Penting**
+## **Struktur Folder Dengan File Penting Sekali**
 
 ```
 ├── app
@@ -22,7 +22,7 @@ Dokumen Ini Menjelaskan Langkah-langkah Pembuatan Fitur CRUD Tuk Tabel Categorie
 
 ---
 
-## **Langkah-Langkah Implementasi CRUD Guna Prefix Dan Helper**
+## **Langkah-Langkah Implementasi CRUD Guna Prefix Juga Helper**
 
 ### **1. Model: `Category.php`**
 Pastikaan Sudah Buat Model Di `app/Models/Category.php.`
